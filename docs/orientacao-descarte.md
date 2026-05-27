@@ -1,32 +1,45 @@
-# Orientação para Descarte
+# 🌱 Orientação para Descarte Sustentável ♻️
 
-## ✅ O que fazer
-
-- Separar os resíduos por categoria;
-- Guardar eletrônicos em local seco;
-- Retirar baterias quando possível;
-- Verificar dados pessoais antes do descarte;
-- Levar os materiais para pontos autorizados;
-- Utilizar ecopontos e campanhas de coleta;
-- Confirmar horários de funcionamento;
-- Buscar locais certificados para descarte.
+> Pequenas atitudes fazem grande diferença para o meio ambiente 🌎
 
 ---
 
-## 🚫 O que não fazer
+# 🌳 Como realizar o descarte correto?
 
-- Não jogar eletrônicos no lixo comum;
-- Não queimar resíduos eletrônicos;
-- Não desmontar equipamentos sem proteção;
-- Não deixar baterias expostas ao calor;
-- Não descartar pilhas em locais inadequados;
-- Não abandonar resíduos em terrenos baldios;
-- Não misturar recicláveis com lixo orgânico.
+O descarte adequado de resíduos eletrônicos e recicláveis ajuda a:
+
+✅ Reduzir impactos ambientais  
+✅ Evitar contaminação do solo e da água  
+✅ Proteger a saúde da população  
+✅ Incentivar a reciclagem sustentável ♻️
+
+Por isso, é importante seguir algumas orientações antes de descartar qualquer material 🌿
 
 ---
 
-## ⚠️ Atenção
+# ✅ O Que Fazer
 
-Baterias de lítio inchadas, aquecendo ou danificadas devem ser levadas imediatamente a um ponto de coleta adequado.
+## ♻️ Boas práticas no descarte
 
-Equipamentos eletrônicos possuem substâncias tóxicas e metais pesados que podem causar impactos ambientais e riscos à saúde quando descartados incorretamente.
+- 📦 Separar os resíduos por categoria;
+- 🌤️ Guardar eletrônicos em local seco;
+- 🔋 Retirar baterias quando possível;
+- 🔒 Verificar dados pessoais antes do descarte;
+- 🏡 Levar os materiais para pontos autorizados;
+- ♻️ Utilizar ecopontos e campanhas de coleta;
+- 🕒 Confirmar horários de funcionamento;
+- ✅ Buscar locais certificados para descarte.
+
+---
+
+# 🌿 Organização dos Resíduos
+
+```text
+♻️ Separação Correta dos Materiais
+
+📱 Eletrônicos → Ecopontos
+🔋 Pilhas/Baterias → Coleta especializada
+📄 Papel → Reciclagem
+🧴 Plásticos → Reciclagem
+🥫 Metal → Reciclagem
+🍾 Vidro → Coleta adequada
