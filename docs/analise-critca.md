@@ -1,65 +1,126 @@
-# Análise Crítica
+# 🌱 Análise Crítica do Sistema de Descarte ♻️
 
-## É fácil descartar corretamente?
-
-O descarte correto de resíduos eletrônicos e recicláveis no Alto Vale ainda apresenta dificuldades para a população. Embora existam pontos de coleta e iniciativas municipais, muitas informações não estão centralizadas e variam conforme a cidade pesquisada.
-
-Alguns municípios possuem melhor organização digital, enquanto outros apresentam poucas informações disponíveis online.
+> Avaliação das condições de descarte correto de resíduos eletrônicos e recicláveis no Alto Vale 🌎
 
 ---
 
-## Quais dificuldades existem?
+# 🌳 É fácil descartar corretamente?
 
-Durante a pesquisa foram identificadas as seguintes dificuldades:
+O descarte correto de resíduos eletrônicos e recicláveis no Alto Vale ainda apresenta algumas dificuldades para a população 🌿
 
-- Falta de divulgação dos pontos de coleta;
-- Informações desatualizadas em sites públicos;
-- Pouca sinalização dos ecopontos;
-- Horários limitados de atendimento;
-- Dependência de campanhas temporárias;
-- Dificuldade de acesso em cidades menores;
-- Pouca integração das informações em um único sistema.
+Embora existam ecopontos, campanhas ambientais e iniciativas municipais, muitas informações ainda não estão organizadas em um único local, dificultando o acesso da população aos serviços disponíveis.
 
-Também foi observado que algumas informações precisaram ser encontradas manualmente através de redes sociais, Google Maps ou contato direto com estabelecimentos.
+Além disso, cada cidade apresenta um nível diferente de organização digital 📱
 
----
+Alguns municípios possuem:
 
-## A divulgação é eficiente?
+✅ Sites organizados  
+✅ Divulgação frequente  
+✅ Informações atualizadas  
 
-A divulgação ainda é considerada limitada.
+Enquanto outros apresentam:
 
-Os principais meios encontrados foram:
-
-- Sites das prefeituras;
-- Redes sociais;
-- Google Maps;
-- Campanhas ambientais;
-- Rádio local;
-- Escolas e eventos educativos.
-
-Mesmo assim, muitas cidades possuem pouca divulgação contínua, dificultando que a população saiba onde realizar o descarte correto.
+⚠️ Pouca divulgação  
+⚠️ Informações desatualizadas  
+⚠️ Falta de localização clara dos pontos de coleta  
 
 ---
 
-## O que poderia melhorar?
+# 🌲 Principais Dificuldades Encontradas
 
-Algumas melhorias identificadas:
+Durante a pesquisa foram identificados diversos obstáculos relacionados ao descarte correto ♻️
 
-- Criação de uma plataforma centralizada;
-- Aplicativo com localização de ecopontos;
-- Atualização frequente das informações;
-- Mais campanhas educativas;
-- Ampliação dos pontos de coleta;
-- Agendamento online;
-- Divulgação em escolas e empresas;
-- Melhor integração com Google Maps.
+## ⚠️ Problemas observados
+
+- 📢 Falta de divulgação dos pontos de coleta;
+- 🌐 Informações desatualizadas em sites públicos;
+- 🪧 Pouca sinalização dos ecopontos;
+- 🕒 Horários limitados de atendimento;
+- 📅 Dependência de campanhas temporárias;
+- 🛣️ Dificuldade de acesso em cidades menores;
+- 🔗 Falta de integração das informações em um único sistema.
 
 ---
 
-# Reflexão Final
+# 🌿 Dificuldades na Pesquisa
 
-A pesquisa demonstrou que existem iniciativas importantes relacionadas ao descarte correto no Alto Vale, porém ainda há dificuldades na organização e divulgação das informações.
+Em muitos casos, as informações não estavam facilmente disponíveis 💻
 
-O projeto busca justamente solucionar parte desse problema através de uma base de dados estruturada, permitindo facilitar o acesso da população às informações sobre descarte correto, materiais aceitos e localização dos pontos de coleta.
+Foi necessário realizar buscas adicionais utilizando:
 
-Além disso, a proposta incentiva conscientização ambiental e práticas sustentáveis na região.
+- 📍 Google Maps;
+- 📱 Redes sociais;
+- ☎️ Contato direto com estabelecimentos;
+- 🌐 Sites das prefeituras;
+- 📰 Notícias locais.
+
+Isso demonstra a necessidade de uma organização mais eficiente das informações ambientais 🌱
+
+---
+
+# 📢 A Divulgação é Eficiente?
+
+A divulgação ainda é considerada limitada ⚠️
+
+Os principais meios encontrados durante a pesquisa foram:
+
+| Meio de Divulgação | Utilização |
+|---|---|
+| 🌐 Sites das prefeituras | Informações básicas |
+| 📱 Redes sociais | Divulgação de campanhas |
+| 📍 Google Maps | Localização de ecopontos |
+| ♻️ Campanhas ambientais | Conscientização |
+| 📻 Rádio local | Divulgação regional |
+| 🏫 Escolas e eventos educativos | Educação ambiental |
+
+Mesmo com essas iniciativas, muitas cidades ainda possuem pouca divulgação contínua, dificultando que a população saiba onde realizar o descarte correto 🗑️
+
+---
+
+# 🌳 O Que Poderia Melhorar?
+
+Durante a análise foram identificadas várias possibilidades de melhoria 🌿
+
+## ✅ Sugestões
+
+- 🌐 Criação de uma plataforma centralizada;
+- 📱 Aplicativo com localização de ecopontos;
+- 🔄 Atualização frequente das informações;
+- 📢 Mais campanhas educativas;
+- ♻️ Ampliação dos pontos de coleta;
+- 📅 Agendamento online;
+- 🏫 Divulgação em escolas e empresas;
+- 🗺️ Melhor integração com Google Maps.
+
+---
+
+# 🌎 Reflexão Final
+
+A pesquisa demonstrou que existem iniciativas importantes relacionadas ao descarte correto no Alto Vale 🌱
+
+Porém, ainda existem dificuldades relacionadas à:
+
+- 📢 Divulgação;
+- 🌐 Organização das informações;
+- 📍 Localização dos pontos de coleta;
+- 🔄 Atualização dos dados.
+
+O projeto proposto busca justamente solucionar parte desse problema através de uma base de dados estruturada 📊
+
+Com isso, será possível:
+
+✅ Facilitar o acesso da população às informações;  
+✅ Melhorar a organização dos pontos de coleta;  
+✅ Informar os materiais aceitos;  
+✅ Incentivar práticas sustentáveis;  
+✅ Promover conscientização ambiental 🌳
+
+---
+
+<div align="center">
+
+# ♻️🌿 PEQUENAS AÇÕES GERAM GRANDES MUDANÇAS 🌿♻️
+
+🌎🌱🌳
+
+</div>
