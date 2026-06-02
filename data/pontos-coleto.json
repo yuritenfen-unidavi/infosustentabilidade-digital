@@ -1,1 +1,83 @@
-
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Gaspar",
+  "pontos_coleta": [
+    {
+      "id_ponto": 3,
+      "nome_local": "Ecoponto Central – SAMAE Gaspar",
+      "endereco": "Avenida Frei Godofredo, 1635",
+      "bairro": "Santa Terezinha",
+      "cidade": "Gaspar/SC",
+      "contato": "SAMAE Gaspar",
+      "materiais_aceitos": [
+        "celulares",
+        "computadores",
+        "televisões",
+        "pilhas",
+        "cabos",
+        "impressoras"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega"
+      },
+      "evidencias": [
+        {
+          "tipo": "pesquisa",
+          "arquivo": "https://www.samaegaspar.com.br/servicos/residuos-solidos/ecoponto"
+        }
+      ]
+    },
+    {
+      "id_ponto": 4,
+      "nome_local": "Superintendência do Belchior",
+      "endereco": "Rua Bonifácio Haendchen, 2758",
+      "bairro": "Belchior Central",
+      "cidade": "Gaspar/SC",
+      "contato": "Superintendência do Belchior",
+      "materiais_aceitos": [
+        "celulares",
+        "notebooks",
+        "carregadores",
+        "pilhas",
+        "pequenos eletrônicos"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega"
+      },
+      "evidencias": [
+        {
+          "tipo": "pesquisa",
+          "arquivo": "https://www.gaspar.sc.gov.br/superintendencia-do-belchior/"
+        }
+      ]
+    },
+    {
+      "id_ponto": 5,
+      "nome_local": "MR Gestão de Resíduos",
+      "endereco": "Rua Anfilóquio Nunes Pires, 1705",
+      "bairro": "Bairro Figueira",
+      "cidade": "Gaspar/SC",
+      "contato": "MR Gestão de Resíduos",
+      "materiais_aceitos": [
+        "resíduos eletrônicos",
+        "peças eletrônicas",
+        "metais"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": true,
+        "modalidade": "entrega"
+      },
+      "evidencias": [
+        {
+          "tipo": "pesquisa",
+          "arquivo": "https://www.mrgestaoderesiduos.com.br/"
+        }
+      ]
+    }
+  ]
+}
