@@ -1,81 +1,236 @@
 {
   "projeto": "InfoSustentabilidade Digital",
-  "cidade_base": "Gaspar",
-  "pontos_coleta": [
+  "cidades": [
     {
-      "id_ponto": 3,
-      "nome_local": "Ecoponto Central – SAMAE Gaspar",
-      "endereco": "Avenida Frei Godofredo, 1635",
-      "bairro": "Santa Terezinha",
-      "cidade": "Gaspar/SC",
-      "contato": "SAMAE Gaspar",
-      "materiais_aceitos": [
-        "celulares",
-        "computadores",
-        "televisões",
-        "pilhas",
-        "cabos",
-        "impressoras"
-      ],
-      "procedimento": {
-        "precisa_agendamento": false,
-        "possui_custo": false,
-        "modalidade": "entrega"
-      },
-      "evidencias": [
+      "cidade_base": "Gaspar",
+      "pontos_coleta": [
         {
-          "tipo": "pesquisa",
-          "arquivo": "https://www.samaegaspar.com.br/servicos/residuos-solidos/ecoponto"
+          "id_ponto": 3,
+          "nome_local": "Ecoponto Central – SAMAE Gaspar",
+          "endereco": "Avenida Frei Godofredo, 1635",
+          "bairro": "Santa Terezinha",
+          "cidade": "Gaspar/SC",
+          "contato": "SAMAE Gaspar",
+          "materiais_aceitos": [
+            "celulares",
+            "computadores",
+            "televisões",
+            "pilhas",
+            "cabos",
+            "impressoras"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa",
+              "arquivo": "https://www.samaegaspar.com.br/servicos/residuos-solidos/ecoponto"
+            }
+          ]
+        },
+        {
+          "id_ponto": 4,
+          "nome_local": "Superintendência do Belchior",
+          "endereco": "Rua Bonifácio Haendchen, 2758",
+          "bairro": "Belchior Central",
+          "cidade": "Gaspar/SC",
+          "contato": "Superintendência do Belchior",
+          "materiais_aceitos": [
+            "celulares",
+            "notebooks",
+            "carregadores",
+            "pilhas",
+            "pequenos eletrônicos"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa",
+              "arquivo": "https://www.gaspar.sc.gov.br/superintendencia-do-belchior/"
+            }
+          ]
+        },
+        {
+          "id_ponto": 5,
+          "nome_local": "MR Gestão de Resíduos",
+          "endereco": "Rua Anfilóquio Nunes Pires, 1705",
+          "bairro": "Bairro Figueira",
+          "cidade": "Gaspar/SC",
+          "contato": "MR Gestão de Resíduos",
+          "materiais_aceitos": [
+            "resíduos eletrônicos",
+            "peças eletrônicas",
+            "metais"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": true,
+            "modalidade": "entrega"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa",
+              "arquivo": "https://www.mrgestaoderesiduos.com.br/"
+            }
+          ]
         }
       ]
     },
+
     {
-      "id_ponto": 4,
-      "nome_local": "Superintendência do Belchior",
-      "endereco": "Rua Bonifácio Haendchen, 2758",
-      "bairro": "Belchior Central",
-      "cidade": "Gaspar/SC",
-      "contato": "Superintendência do Belchior",
-      "materiais_aceitos": [
-        "celulares",
-        "notebooks",
-        "carregadores",
-        "pilhas",
-        "pequenos eletrônicos"
-      ],
-      "procedimento": {
-        "precisa_agendamento": false,
-        "possui_custo": false,
-        "modalidade": "entrega"
-      },
-      "evidencias": [
+      "cidade_base": "Rio do Campo",
+      "pontos_coleta": [
         {
-          "tipo": "pesquisa",
-          "arquivo": "https://www.gaspar.sc.gov.br/superintendencia-do-belchior/"
+          "id_ponto": 6,
+          "nome_local": "CDL Rio do Campo (Recicla CDL)",
+          "endereco": "Rua 29 de Dezembro",
+          "bairro": "Centro",
+          "cidade": "Rio do Campo",
+          "contato": "",
+          "materiais_aceitos": [
+            "celulares",
+            "notebook",
+            "tablets",
+            "componentes internos"
+          ],
+          "procedimento": {
+            "precisa_agendamento": true,
+            "possui_custo": false,
+            "modalidade": "entrega"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa com dados",
+              "arquivo": "CDL RIO DO CAMPO – Portal das CDLs"
+            }
+          ]
         }
       ]
     },
+
     {
-      "id_ponto": 5,
-      "nome_local": "MR Gestão de Resíduos",
-      "endereco": "Rua Anfilóquio Nunes Pires, 1705",
-      "bairro": "Bairro Figueira",
-      "cidade": "Gaspar/SC",
-      "contato": "MR Gestão de Resíduos",
-      "materiais_aceitos": [
-        "resíduos eletrônicos",
-        "peças eletrônicas",
-        "metais"
-      ],
-      "procedimento": {
-        "precisa_agendamento": false,
-        "possui_custo": true,
-        "modalidade": "entrega"
-      },
-      "evidencias": [
+      "cidade_base": "Agrolândia",
+      "pontos_coleta": [
         {
-          "tipo": "pesquisa",
-          "arquivo": "https://www.mrgestaoderesiduos.com.br/"
+          "id_ponto": 7,
+          "nome_local": "Prefeitura Municipal de Agrolândia – Secretaria de Obras e Meio Ambiente",
+          "endereco": "Rua dos Pioneiros",
+          "bairro": "Centro",
+          "cidade": "Agrolândia",
+          "contato": "Não informado",
+          "materiais_aceitos": [
+            "computadores",
+            "teclados",
+            "mouses",
+            "monitores",
+            "celulares",
+            "cabos",
+            "impressoras",
+            "baterias"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local",
+            "horario": "Seg à sex - 08:00 às 12:00 e 14:00 às 17:00"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa",
+              "arquivo": "Prefeitura Municipal de Agrolândia"
+            }
+          ]
+        },
+        {
+          "id_ponto": 8,
+          "nome_local": "PontoCom - Celulares",
+          "endereco": "Rua dos Pioneiros, nº 120",
+          "bairro": "Centro",
+          "cidade": "Agrolândia",
+          "contato": "Não informado",
+          "materiais_aceitos": [
+            "computadores",
+            "teclados",
+            "mouses",
+            "monitores",
+            "celulares",
+            "cabos",
+            "impressoras",
+            "baterias"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega/venda",
+            "horario": "Seg à sex - 08:30 às 12:00 e 13:30 às 18:30; sáb - 08:00 às 12:00"
+          },
+          "evidencias": [
+            {
+              "tipo": "pesquisa",
+              "arquivo": "PontoCom - Celulares - Informática - Assistência Técnica - Eletrônicos"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "cidade_base": "Witmarsum",
+      "pontos_coleta": [
+        {
+          "id_ponto": 1,
+          "nome_local": "Casa da Cidadania",
+          "endereco": "Rua Willy Pett, 29",
+          "bairro": "Centro",
+          "cidade": "Witmarsum",
+          "contato": "Não informado",
+          "materiais_aceitos": [
+            "baterias",
+            "celulares"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local",
+            "horario": "08h às 12h e 14h às 17h"
+          },
+          "evidencias": [
+            {
+              "tipo": "ligação",
+              "arquivo": "https://maps.app.goo.gl/98FH6SQfKx4HabaR8"
+            }
+          ]
+        },
+        {
+          "id_ponto": 2,
+          "nome_local": "Hospital Mateus Caled Padoin",
+          "endereco": "Rua Sete de Setembro, 2255",
+          "bairro": "Centro",
+          "cidade": "Witmarsum",
+          "contato": "Não informado",
+          "materiais_aceitos": [
+            "televisores",
+            "eletrodomésticos"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local",
+            "horario": "Durante eventos específicos, como o Dia D"
+          },
+          "evidencias": [
+            {
+              "tipo": "ligação",
+              "arquivo": "https://maps.app.goo.gl/Btdray8BN7CD4UuXA"
+            }
+          ]
         }
       ]
     }
