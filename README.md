@@ -1,142 +1,274 @@
-# Projeto: Descarte Correto de Lixo no Alto Vale
+# 🌱 Projeto de Infosustentabilidade
 
-## Integrantes do Grupo
-
-- Guilherme Erkmann
-- Guilherme Semião
-- Ubirajara
-- Yuri Tenfen
+# ♻️ Descarte Correto de Resíduos no Alto Vale
 
 ---
 
-# Relação com o Projeto Anterior
+## 🌍 Integrantes do Grupo
 
-O presente projeto possui relação direta com o modelo de dados desenvolvido anteriormente, cujo objetivo é estruturar informações sobre pontos de coleta e descarte correto de resíduos no Alto Vale.
-
-O modelo de dados foi elaborado para organizar e armazenar informações relevantes sobre:
-
-- Pontos de coleta;
-- Materiais aceitos;
-- Procedimentos de descarte;
-- Evidências e comprovações;
-- Análises críticas dos serviços disponíveis.
-
-A estrutura permite criar uma base de dados organizada e acessível, facilitando a consulta por usuários interessados em realizar o descarte correto de resíduos recicláveis, eletrônicos, perigosos ou especiais.
-
-O sistema proposto busca transformar essas informações em uma ferramenta útil para a população da região do Alto Vale, promovendo conscientização ambiental e incentivo à reciclagem.
+| 👤 Nome           |
+| ----------------- |
+| Guilherme Erkmann |
+| Guilherme Semião  |
+| Ubirajara         |
+| Yuri Tenfen       |
 
 ---
 
-# Pergunta Guia
+# 💚 Apresentação do Projeto
+
+O presente projeto foi desenvolvido com o objetivo de promover a *sustentabilidade ambiental* por meio da organização e divulgação de informações sobre o descarte correto de resíduos no Alto Vale do Itajaí.
+
+A proposta busca conectar tecnologia, conscientização ambiental e cidadania, oferecendo uma solução que facilite o acesso às informações sobre reciclagem, reutilização e descarte responsável de diversos tipos de materiais.
+
+---
+
+# 🔗 Relação com o Projeto Anterior
+
+Este trabalho possui relação direta com o *modelo de dados desenvolvido anteriormente*, responsável por estruturar e organizar informações sobre pontos de coleta e descarte de resíduos da região.
+
+O banco de dados foi projetado para armazenar informações sobre:
+
+✅ Pontos de coleta
+
+✅ Materiais aceitos
+
+✅ Procedimentos de descarte
+
+✅ Evidências e comprovações
+
+✅ Avaliações e análises críticas
+
+✅ Localização geográfica
+
+---
+
+## 📊 Estrutura das Informações
+
+A organização dos dados permite criar uma plataforma capaz de fornecer informações claras e acessíveis para toda a população.
+
+### ♻️ Informações Disponíveis
+
+* 📍 Localização dos pontos de coleta;
+* 🗑️ Tipos de resíduos aceitos;
+* 📅 Horários de funcionamento;
+* 📸 Evidências e registros;
+* 📝 Procedimentos necessários;
+* 💬 Avaliações e observações.
+
+---
+
+# ❓ Pergunta Guia
 
 ## Como descartar o lixo corretamente no Alto Vale?
 
-Essa pergunta orienta todo o desenvolvimento do projeto, buscando identificar:
+Essa pergunta norteia todo o desenvolvimento do projeto e busca responder questões importantes para a população:
 
-- Onde realizar o descarte;
-- Quais materiais são aceitos;
-- Como funciona o processo de descarte;
-- Quais dificuldades os cidadãos enfrentam;
-- Como melhorar a divulgação dessas informações.
+### 🔍 Onde descartar?
 
----
+Encontrar os locais corretos para cada tipo de resíduo.
 
-# Objetivo dos Usuários Possíveis
+### ♻️ O que pode ser reciclado?
 
-O sistema possui como objetivo auxiliar diferentes perfis de usuários:
+Identificar os materiais aceitos pelos pontos de coleta.
 
-## 1. Cidadãos
+### 📋 Como funciona o processo?
 
-- Encontrar locais corretos para descarte;
-- Descobrir quais materiais podem ser reciclados;
-- Obter orientações sobre descarte especial.
+Compreender regras, horários e exigências.
 
-## 2. Empresas
+### 🚧 Quais dificuldades existem?
 
-- Localizar pontos de descarte para resíduos específicos;
-- Cumprir normas ambientais;
-- Organizar descarte sustentável.
+Mapear problemas enfrentados pelos cidadãos.
 
-## 3. Órgãos Públicos
+### 💡 Como melhorar?
 
-- Monitorar pontos de coleta;
-- Identificar dificuldades da população;
-- Melhorar campanhas de conscientização.
-
-## 4. Instituições Educacionais
-
-- Utilizar os dados para projetos ambientais;
-- Incentivar educação sustentável;
-- Desenvolver ações de conscientização.
+Propor soluções para ampliar a divulgação das informações.
 
 ---
 
-# Funcionalidades Propostas
+# 🎯 Público-Alvo do Sistema
 
-## Cadastro de Pontos de Coleta
+O sistema foi pensado para atender diferentes perfis de usuários.
 
-Permitir o armazenamento de informações sobre locais de descarte.
+## 👨‍👩‍👧‍👦 Cidadãos
 
-## Consulta de Materiais Aceitos
-
-Usuários poderão verificar quais materiais cada ponto aceita.
-
-## Informações de Procedimentos
-
-Exibição de horários, custos, necessidade de agendamento e modalidades de descarte.
-
-## Registro de Evidências
-
-Armazenamento de fotos, documentos e links relacionados aos pontos de coleta.
-
-## Sistema de Análises Críticas
-
-Registro de avaliações sobre dificuldades, qualidade dos serviços e melhorias possíveis.
-
-## Integração com Google Maps
-
-Facilitar a localização dos pontos de coleta.
-
-## Filtros de Pesquisa
-
-Busca por cidade, bairro, tipo de material ou modalidade de descarte.
+* Encontrar pontos de descarte;
+* Receber orientações ambientais;
+* Contribuir para a preservação do meio ambiente.
 
 ---
 
-# Ferramentas Utilizadas
+## 🏢 Empresas
 
-## Google Planilhas
-
-Utilizado para organização e coleta inicial dos dados.
-
-## Markdown
-
-Documentação do projeto e organização das informações.
-
-## Banco de Dados Relacional
-
-Estruturação das entidades e relacionamentos do sistema.
-
-## Google Maps
-
-Auxílio na localização dos pontos de coleta.
+* Destinar resíduos corretamente;
+* Atender normas ambientais;
+* Melhorar práticas sustentáveis.
 
 ---
 
-# Link da Planilha
+## 🏛️ Órgãos Públicos
 
-A planilha utilizada para organização dos dados pode ser acessada no link abaixo:
-
-https://docs.google.com/spreadsheets/d/1KvdRNDf-EeLTndenuw7eo18G7vaZzBWhjOl-rtURPf8/edit?gid=0#gid=0
+* Monitorar pontos de coleta;
+* Identificar demandas da população;
+* Planejar campanhas ambientais.
 
 ---
 
-# Reflexão Final
+## 🎓 Instituições de Ensino
 
-O desenvolvimento deste projeto permitiu compreender a importância da organização das informações relacionadas ao descarte correto de resíduos no Alto Vale.
+* Desenvolver projetos educativos;
+* Promover conscientização ambiental;
+* Utilizar dados em pesquisas e atividades acadêmicas.
 
-Durante a elaboração do modelo de dados, foi possível perceber que muitas vezes a população possui dificuldades para encontrar informações claras sobre locais de descarte, materiais aceitos e procedimentos necessários.
+---
 
-A proposta do sistema busca facilitar o acesso a essas informações, promovendo conscientização ambiental, incentivo à reciclagem e redução dos impactos ambientais causados pelo descarte inadequado.
+# ⚙️ Funcionalidades Propostas
 
-Além disso, o projeto demonstra como a tecnologia pode auxiliar tanto a população quanto órgãos públicos na construção de soluções sustentáveis para a região.
+## 📍 Cadastro de Pontos de Coleta
+
+Armazenamento de informações sobre locais autorizados para descarte.
+
+---
+
+## ♻️ Consulta de Materiais Aceitos
+
+Permite verificar quais resíduos cada ponto recebe.
+
+---
+
+## 📋 Informações de Procedimentos
+
+Exibição de:
+
+* Horários;
+* Custos;
+* Agendamentos;
+* Modalidades de descarte.
+
+---
+
+## 📸 Registro de Evidências
+
+Armazenamento de:
+
+* Fotografias;
+* Documentos;
+* Links;
+* Comprovações.
+
+---
+
+## ⭐ Sistema de Avaliações
+
+Registro de experiências dos usuários sobre:
+
+* Qualidade do serviço;
+* Facilidade de acesso;
+* Dificuldades encontradas;
+* Sugestões de melhoria.
+
+---
+
+## 🗺️ Integração com Google Maps
+
+Facilita a localização dos pontos de coleta através de mapas interativos.
+
+---
+
+## 🔎 Sistema de Busca Inteligente
+
+Pesquisa por:
+
+* Cidade;
+* Bairro;
+* Tipo de material;
+* Modalidade de descarte.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+| Ferramenta                    | Finalidade                       |
+| ----------------------------- | -------------------------------- |
+| 📊 Google Planilhas           | Organização inicial dos dados    |
+| 📝 Markdown                   | Documentação do projeto          |
+| 🗄️ Banco de Dados Relacional | Estruturação das informações     |
+| 🗺️ Google Maps               | Localização dos pontos de coleta |
+
+---
+
+# 📈 Benefícios Esperados
+
+### 🌱 Ambientais
+
+* Redução da poluição;
+* Incentivo à reciclagem;
+* Destinação correta dos resíduos.
+
+### 👥 Sociais
+
+* Maior conscientização da população;
+* Facilidade de acesso à informação;
+* Participação cidadã.
+
+### 💻 Tecnológicos
+
+* Centralização dos dados;
+* Consulta rápida e eficiente;
+* Organização digital das informações.
+
+---
+
+# 🔗 Base de Dados do Projeto
+
+A planilha utilizada para coleta e organização das informações encontra-se disponível no link abaixo:
+
+📄 https://docs.google.com/spreadsheets/d/1KvdRNDf-EeLTndenuw7eo18G7vaZzBWhjOl-rtURPf8/edit?gid=0#gid=0
+
+---
+
+# 🌎 Contribuição para os Objetivos de Desenvolvimento Sustentável (ODS)
+
+Este projeto está alinhado aos Objetivos de Desenvolvimento Sustentável da Organização das Nações Unidas.
+
+### ♻️ ODS 11
+
+*Cidades e Comunidades Sustentáveis*
+
+Promover práticas que contribuam para cidades mais limpas e organizadas.
+
+### 🌱 ODS 12
+
+*Consumo e Produção Responsáveis*
+
+Estimular o descarte correto e a reciclagem de resíduos.
+
+### 🌍 ODS 13
+
+*Ação Contra a Mudança Global do Clima*
+
+Reduzir impactos ambientais causados pelo descarte inadequado.
+
+---
+
+# 💭 Reflexão Final
+
+O desenvolvimento deste projeto permitiu compreender a importância da tecnologia como ferramenta de apoio à sustentabilidade.
+
+Durante a pesquisa e modelagem dos dados, observou-se que muitas pessoas possuem dificuldades para encontrar informações confiáveis sobre descarte de resíduos, o que contribui para práticas inadequadas e impactos negativos ao meio ambiente.
+
+A proposta desenvolvida busca transformar informações dispersas em conhecimento acessível, promovendo educação ambiental, incentivo à reciclagem e participação ativa da comunidade.
+
+Mais do que um sistema de consulta, o projeto representa uma iniciativa de conscientização ambiental, demonstrando como a tecnologia pode auxiliar na construção de uma sociedade mais sustentável, responsável e comprometida com as futuras gerações.
+
+---
+
+<div align="center">
+
+## 🌱💚 Pequenas atitudes geram grandes mudanças 💚🌱
+
+### ♻️ Reciclar é preservar.
+
+### 🌎 Preservar é cuidar do futuro.
+
+</div>
